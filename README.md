@@ -13,6 +13,5 @@ Hi, I'm Putu Andhika Pratama Sapanca<br><br>Information Technology Student at Ud
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AndhikaSapanca&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AndhikaSapanca&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
